@@ -168,11 +168,15 @@
 .about-left {
     width: 80%;
     float: left;
+    padding: 2%;
+    box-sizing: border-box;
 }
 
 .about-right {
     width: 20%;
     float: right;
+    padding: 2%;
+    box-sizing: border-box;
 }
 
 #gravatar img {
