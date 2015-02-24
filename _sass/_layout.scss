@@ -162,6 +162,24 @@
 
 
 /**
+ * About
+ */
+
+.about-left {
+    width: 80%;
+    float: left;
+}
+
+.about-right {
+    width: 20%;
+    float: right;
+}
+
+#gravatar img {
+    width: 100%;
+}
+
+/**
  * Page content
  */
 .page-content {
