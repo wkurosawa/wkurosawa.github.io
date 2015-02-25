@@ -259,3 +259,30 @@
         }
     }
 }
+
+.post-info {
+    width: 60%;
+    float: left;
+    padding: 2%;
+    box-sizing: border-box;
+}
+
+.post-thumbnail {
+    width: 40%;
+    float: right;
+    padding: 2%;
+    box-sizing: border-box;
+    height: 150px;
+    overflow: hidden;
+}
+
+.post-list li {
+    overflow: auto;
+}
+
+.post-category {
+    padding: 2px 5px;
+    background-color: $blue;
+    color: white;
+    font-weight: 700;
+}

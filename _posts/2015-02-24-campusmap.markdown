@@ -2,7 +2,9 @@
 layout: post
 title:  "CampusMap"
 date:   2015-02-24 23:18:45
-categories: ruby rails
+categories: ruby rails architect back-end front-end designer devops
+thumb: "/images/campusmap.png"
+
 ---
 
 <a href="http://www.campusmap.com.br">CampusMap</a>
@@ -23,6 +25,10 @@ categories: ruby rails
 
 <p>
   CampusMap was created for fun, with purpose to do something useful on this great technology event, that allowed a quickly spread, growth and validation.
+</p>
+
+<p>
+  Worked as a full-stack developer and map designer.
 </p>
 
 <img src="{{ "/images/campusmap.png" | prepend: site.baseurl }}">

@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "99jobs.com"
+date:   2015-02-24 23:18:45
+categories: ruby rails architect back-end front-end devops
+thumb: "/images/99jobs.com.png"
+
+---
+
+<a href="https://www.99jobs.com">99jobs.com</a>
+
+<p>
+  99jobs.com is a company focused on connecting people. It allows people to create an education/professional profile and also use traces of what ones likes or thinks it is important as a cultural value in order to show opportunities.
+</p>
+
+<p>
+  To companies, is an environment to build institutional pages as well as opportunities pages and find the most engajed, connected person with your company.
+</p>
+
+<h2>Motivation</h2>
+
+<p>
+  The whole 99jobs.com conception comes from Du Migliano and Diego Ximenes. When asking friends where they were working, answers usually came with a "Ah, that same-boring-old-company, I don't really like, but it's ok". Careers chosen on impulse or only to satisfy a desire partially. Du and Diego felt like people were missing enjoying work, wether because they couldn't find a place they really like, wether because companies hadn't a cultural fit.
+</p>
+
+<p>
+  As an architect of the whole 99jobs.com platform, William carefully chose to migrate from PHP Laravel framework to Ruby On Rails, added a NoSQL DB to the already relational platform, and designed a lot of coding patterns across whole 99jobs-ecosystem.
+</p>
+
+<img src="{{ "/images/99jobs.com.png" | prepend: site.baseurl }}">
