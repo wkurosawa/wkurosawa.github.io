@@ -16,11 +16,15 @@ thumb: "/images/meuportifa.png"
 <h2>Motivation</h2>
 
 <p>
-  It is an experiment that is trying to understand if students would like to ask and answer to other students, without fear to being wrong or if that question is naive, and if this works to them as a tool of study.
+  There are many people on communication business that don't have a portfolio online because don't have programming skills neither can afford to pay a programmer.
 </p>
 
 <p>
-  The platform was already running so this was a maintenance project. A new version need to be planned with another stack, probably with an asynchronous JS, NoSQL and microservices.
+  MeuPortifa allows users to have a unique URL with their projects, with a proper layout and contact information.
+</p>
+
+<p>
+  This project started on a Concierge MVP, with founders creating HTML files for each professional request. When idea was validated (and HTML manual productions became unmanageable) a Rails prototype was created on a weekend by Neue Labs developers. Since then, its been maintained by William.
 </p>
 
 <img src="{{ "/images/meuportifa.png" | prepend: site.baseurl }}">
